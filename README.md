@@ -1,1 +1,2 @@
-# sql
+# SQL
+- SQL Practice Solutions
